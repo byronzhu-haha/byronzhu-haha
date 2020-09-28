@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=byronzhu-haha&show_icons=true&theme=vue" alt="byronzhu's github stats" />
+
+- 🇨🇳 Chinese
+- ⚡ A gopher
+
+<img src="https://github-profile-trophy.vercel.app/?username=byronzhu-haha&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
